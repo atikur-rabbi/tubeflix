@@ -12,7 +12,7 @@ import './Menu.css'
             </Link>
             <Link to ="/help">
             <Button as={Link} className="ButtonLink" to="/help">
-            Ajude um restaurante
+            About Us
             </Button>
             </Link>
         </nav>
